@@ -13,5 +13,5 @@ I think that being able to remember how to type out the correct sequences to emb
 - Headline 3 (### before the word) and so on...
 - Creating an external link: [Click Here](https://www.wikipedia.org/) (Click here in [brackets] followed by the link)
 - Creating an internal link: [My File](./responses.txt) (My File in [brackets] followed by ./file name in (parentheses))
-- Creating an image link: ! followed by [full image name including .jpg or similar] Here is a Corgi I drew.
+- Creating an image link: ! followed by [full image name including .jpg or similar] Here is an image of a Corgi I drew.
 ![screenshot](./Corgi.PNG)
